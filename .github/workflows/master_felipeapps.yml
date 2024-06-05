@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'Felipeapps'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5F04D59BFDF6430DBF4732217FA5A25B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_296FC4C8BDC1429CA4CC8E3E2B22162E }}
           package: .
